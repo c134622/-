@@ -1,5 +1,7 @@
 """
 添加到系统path环境变量中，执行：fanyi.py 字符串
+fanyi.py 字符串 字符串
+空格隔开可同时翻译多句
 """
 import requests
 import string
